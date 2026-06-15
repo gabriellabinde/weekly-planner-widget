@@ -83,6 +83,10 @@ allowing users to monitor overall productivity during the week.
 * JSX / React-style components
 * CSS-in-JS styling
 
+### Platform
+
+This project was developed as a custom widget for Übersicht (macOS desktop widgets).
+
 ### Data Persistence
 
 * Browser localStorage
@@ -107,10 +111,6 @@ allowing users to monitor overall productivity during the week.
 As a psychologist and cognitive science student, I am interested in designing digital tools that support organization, executive functioning, habit formation, and self-management.
 
 This project was developed both as a programming exercise and as an exploration of how interface design can facilitate everyday planning and productivity.
-
-## Platform
-
-This project was developed as a custom widget for Übersicht (macOS desktop widgets).
 
 ## Future Improvements
 
